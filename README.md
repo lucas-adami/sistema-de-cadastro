@@ -5,5 +5,5 @@
 Para rodar esse programa na sua maquina, por favor digite:
 
 ```
-npm install react
+node app.js
 ```
