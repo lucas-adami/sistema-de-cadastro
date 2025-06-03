@@ -83,21 +83,33 @@ Essa API RESTful utiliza os métodos HTTP POST, GET, PUT e DELETE, completando o
 ### :clapper: Funcionalidades do Sistema
 Confira a seguir uma demonstração das funcionalidades do sistema:
 <details>
-   <summary>Cadastro Professor</summary>
+   <summary>Login</summary>
     <div align="center">
-        <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/Cadastro%20Professor.gif">
+        <img src="https://github.com/lucas-adami/sistema-de-cadastro/blob/main/Gifs%20PI/Login.gif">
     </div>
 </details>
 <details>
-   <summary>Relatório Cursos</summary>
+   <summary>Cadastro de Professores</summary>
     <div align="center">
-        <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/Relat%C3%B3rio%20Curso.gif">
+        <img src="https://github.com/lucas-adami/sistema-de-cadastro/blob/main/Gifs%20PI/Cadastro%20de%20Professores.gif">
     </div>
 </details>
 <details>
-   <summary>Relatório Professores</summary>
+   <summary>Editar Professores</summary>
     <div align="center">
-        <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/Relat%C3%B3rio%20Professor.gif">
+        <img src="https://github.com/lucas-adami/sistema-de-cadastro/blob/main/Gifs%20PI/Editar%20Professores.gif">
+    </div>
+</details>
+<details>
+   <summary>Cadastro de Cursos</summary>
+    <div align="center">
+        <img src="https://github.com/lucas-adami/sistema-de-cadastro/blob/main/Gifs%20PI/Cadastro%20de%20Curso.gif">
+    </div>
+</details>
+<details>
+   <summary>Editar Cursos</summary>
+    <div align="center">
+        <img src="https://github.com/lucas-adami/sistema-de-cadastro/blob/main/Gifs%20PI/Editar%20Curso.gif">
     </div>
 </details>
  
