@@ -50,11 +50,21 @@ Cada sprint no desenvolvimento ágil resulta em uma entrega funcional e incremen
 | RF10 | Relatórios           | Permitir a geração de um relatório geral de todos os objetos.                | 🟡 Média    | ⛔ Não iniciado |
 | RF11 | Relatórios           | Permitir que o usuário gere relatórios conforme filtros personalizados.      | 🔴 Alta     | ⛔ Não iniciado |
 
+
+## 📋 Requisitos Não Funcionais
+
+| ID     | Requisito Não Funcional   | Categoria         | Descrição                                                                 |
+|--------|----------------------------|-------------------|---------------------------------------------------------------------------|
+| RnF01  | Tempo de resposta          | Desempenho        | A aplicação foi pensada para que o usuário não aguarde muito tempo de resposta. |
+| RnF02  | Interface intuitiva        | Usabilidade       | A interface foi pensada para ser simples, com navegação fácil e consistente.     |
+| RnF03  | Autenticação segura        | Segurança         | O login é protegido através de um token JWT.                              |
+| RnF04  | Proteção de dados          | Segurança         | Todos os dados sensíveis estão protegidos por tokens.                     |
+| RnF05  | Plataformas suportadas     | Compatibilidade   | Durante o desenvolvimento, realizamos testes nos dois principais sistemas operacionais mobile. |
+| RnF06  | Disponibilidade            | Confiabilidade    | A aplicação deve estar disponível 99,5% do tempo.                         |
+| RnF07  | Modularidade               | Manutenibilidade  | O código deve ser modular e seguir boas práticas de arquitetura.          |
+
+
 <div align="center">  
-  <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/Requisitos%20%20n%C3%A3o%20funcionais.png" alt="req ñ funcionais">
-  <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/Sprint%2001.PNG" alt="sprint1">
-  <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/Sprint%2002.PNG" alt="sprint2">
-  <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/Sprint%2003.PNG" alt="sprint3">
   <img src="https://github.com/VitorRuan/Sprints/blob/main/Imagens/User%20Stories.png" alt="User Stories">
 </div>
 
